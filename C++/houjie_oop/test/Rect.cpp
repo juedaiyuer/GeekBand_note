@@ -1,5 +1,5 @@
 #include<iostream.h>
-
+//为下面的Rectangle类实现构造函数，拷贝构造函数，赋值操作符，析构函数。
 
 class Shape
 {
